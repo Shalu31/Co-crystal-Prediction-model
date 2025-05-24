@@ -1,0 +1,99 @@
+Drug Name,Molecular Weight (g/mol),pKa,LogP,Aqueous Solubility (mg/mL),Oral Bioavailability (%),H-Bond Donors,H-Bond Acceptors
+Aceclofenac,354.18,4,3.58,0.00744,15,3,5
+Acitretin,326.42,3.8,6.1,0.0729,45,1,3
+Albendazole,265.34,7.4,2.9,0.001,56,2,4
+Amiodarone,645.29,4.5,4.1,0.1,14,3,6
+Aprepitant,534.44,4,4.2,0.009,67,2,12
+Aripiprazole,448.38,7.6,4,0.07 mg/mL,87%,1,5
+Atazanavir,704.86,4.1,4.36,0.00396 mg/mL,~60%,5,9
+Atorvastatin Calcium,1157.34,4.31,6.98,8.17e-05 mg/mL,~14%,3,5
+Avacopan,539.57,4.5,8.05,Low,~70%,2,3
+Axitinib,386.47,5.5,3.5,pH-dependent,~58%,1,4
+Budesonide,430.52,13.5,2.72,0.04 mg/mL,~9%,2,6
+Cabozantinib,501.5,5.9,4.7,Low,~74%,2,5
+Candesartan Cilexetil,610.662,6,4.7,Low,80,3,5
+Carbamazepine,236.27,13.9,2.45,0.017,80,0,2
+Cariprazine,427.41,7.91,4.56,0.0279,,1,3
+Carvedilol,406.47,,,,,,
+Cefuroxime,424.4,,,0.001,35,2,6
+Celecoxib,381.38,1.1,3.9,3.3,30,1,3
+Cetilistat,313.38,,,,,,
+Chlorzoxazone,169.56,9.5,1.5,0.1,80,1,3
+Clonazepam,315.71,1.5,2.5,0.1,80,1,4
+Clopidogrel,321.82,4.5,3.9,0.01,90,1,5
+Clozapine,326.82,7.4,3,0.2,50,1,4
+Daclatasvir,738.88,7.5,4.6,0.2,50,2,8
+Danazol,337.45,4,4.5,0.05,67,1,2
+Dexlansoprazole,369.37,4,2.3,0.003,20,1,5
+Dextromethorphan Hydrobromide,352.3,9.85,3.75,0.1,50,0,2
+Diacerein,368.29,3.5,2.5,0.0085,100,1,6
+Diclofenac Sodium,318.12,4,4.26,3.197,35,1,3
+Dolutegravir Sodium,441.36,10.1,1.72,0.01,50,1,6
+Duloxetine,297.41,9.5,4.3,0.02,,1,4
+Dutasteride,528.53,12,5.1,0.01,60,1,4
+Efavirenz,315.67,10.2,4.6,0.01,40,1,4
+Enzalutamide,464.45,11.2,3.6,0,45,1,8
+Eplerenone,414.48,12,1,0.1,100,1,5
+Etoricoxib,358.84,4.6,3.14,3.28,,1,4
+Etodolac,287.35,4.65,2.3,0.1,100,1,4
+Ezetimibe,409.42,9.5,4.5,,80,1,3
+Felbamate,238.24,14.98,0.3,0.74,94,1,2
+Felodipine,384.24,4.8,4.5,0.01,15,1,6
+Fenofibrate,360.82,4.8,5.24,0.25,10,1,4
+Gemfibrozil,250.33,4.7,3.4,0.028,97,1,3
+Gefitinib,446.9,5.7,4.1,0.01,60,1,6
+Glimepiride,490.62,6.2,3.2,0.02,100,1,6
+Glyburide,494,5.3,4.3,0.01,50,1,7
+Ibuprofen,206.27,4.4,3.6,0.1,80,1,2
+Indinavir Sulfate,711.87,~3.7,2.81,Moderate,Good,4,7
+Ivermectin,875.07,~12.6,~4.8,Very low,~60%,3,8
+Ketoconazole,531.42,6.5,4.3,Low,~75%,3,6
+Ketoprofen,254.27,4.45,3.1,Low,~90%,1,3
+Lamotrigine,256.1,5.7,~2.3,Practically insoluble,~98%,2,4
+Lansoprazole,369.37,4,~2.0,Low,80–90%,1,5
+Latanoprost,432.58,4.88,3.98–4.1,0.0129 mg/mL,Not applicable (topical),3,4
+Leniolisib,417.47,7.5,~3.0,Data not available,Data not available,1,6
+Lenvatinib,426.85,4,~3.4,Low,~85%,1,7
+Lesinurad,404.28,3.5,~2.5,Low,~100%,1,5
+Letermovir,534.55,4.5,~3.5,Low,~35%,1,7
+Loperamide,477.02,8.6,4.44–4.77,0.00086 mg/mL,<1%,1,3
+Lopinavir,628.79,4,~4.7,Very low,~25% (with ritonavir),3,7
+Loracarbef,392.4,3,~0.5,High,~90%,2,6
+Loratadine,382.87,4.33,4.55–4.8,0.013 g/L,~40%,0,2
+Lornoxicam,371.83,4.5,~1.7,Low,~105%,2,6
+Lovastatin,404.53,4,~4.3,Very low,~5%,1,5
+Macitentan,588.28,4.5,~3.5,Low,~74%,1,6
+Maribavir,308.78,3.5,~2.5,Low,~30%,1,5
+Mebendazole,295.29,4,~3.5,Very low,~20%,1,5
+Meclizine,390.94,8,~3.0,Low,~90%,1,3
+Meloxicam,351.41,4.1,~3.4,Very low,~89%,1,5
+Montelukast Sodium,608.15,4,~8.0,Very low,~64%,1,6
+Nateglinide,317.42,3.3,~3.0,Low,~73%,1,5
+Nelfinavir Mesylate,663.89,4,~5.0,Very low,~20–80%,2,6
+Nevirapine,266.3,2.8,~2.5,Low,~93%,1,5
+Nicardipine,479.52,9.3,~3.5,Low,~35%,1,6
+Nifedipine,346.33,,~2.2,Low,~45–56%,1,6
+Nitrofurantoin,238.17,,~0.1,High,~90%,2,6
+Obeticholic Acid,420.61,,~4.5,Very low,~35%,1,4
+Olanzapine,312.44,,~2.5,Low,~60%,1,4
+Omeprazole,345.42,,~2.2,Low,~30–40%,1,5
+Oxcarbazepine,252.27,,~2.1,Low,~89%,1,4
+Ozanimod,431.45,,~2.3,Low,~60%,1,5
+Palbociclib Isethionate,603.67,,~3.0,Low,~46%,2,7
+Paliperidone Palmitate,664.89,,~2.8,Low,~28%,2,5
+Pemigatinib,568.61,,,,,,
+Phenytoin Sodium,274.25,8.3,2.5,20,70,2,4
+Posaconazole,700.79,3.6,5,0.001,~50,3,9
+Pralsetinib,488.59,5.1,3.2,0.01,~60,1,6
+Racecadotril,385.47,4.5,2.1,0.02,~30,1,5
+Raloxifene,473.58,8.8,5.5,0.0005,2,2,5
+Raltegravir,444.43,6.6,1.3,0.1,40,3,7
+Rebamipide,370.78,4,1.9,0.03,~10,2,5
+Rifabutin,847,7.9,4.3,0.002,20,3,10
+Rifampicin,822.93,7.9,3.7,0.01,90–95,5,12
+Risperidone,410.49,8.2,3,0.03,70,1,5
+Rosuvastatin,481.54,4.6,2,0.001,20,3,6
+Sertraline Hydrochloride,342.68,9.5,5.1,0.01,44,1,2
+Sildenafil,474.59,8.7,2.6,0.005,40,1,6
+Spironolactone,416.57,10.2,2.8,0.002,60–90,0,4
+Tamoxifen Citrate,563.62,8.8,6.3,0.0009,20,1,3
