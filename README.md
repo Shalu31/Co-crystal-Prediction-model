@@ -59,17 +59,6 @@ BCS Class II drugs have high permeability but low solubility, making them ideal 
 
 ---
 
-## 📈 Model Evaluation
-
-| Model               | Accuracy | Precision | Recall | ROC-AUC |
-| ------------------- | -------- | --------- | ------ | ------- |
-| Logistic Regression | XX%      | XX%       | XX%    | XX      |
-| Random Forest       | XX%      | XX%       | XX%    | XX      |
-
-*(Replace XX with actual values.)*
-
----
-
 ## 🚀 Future Work
 
 * Explore deep learning (Graph Neural Networks) for improved accuracy.
